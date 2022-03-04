@@ -2,7 +2,7 @@
 
 Para el desarrollo de este análisis se utilizó el conjunto de datos resultante de la segmentación de clientes, realizada a través del algoritmo de aprendizaje no supervisado K-means; mediante este, se desarrolló dos conjuntos de segmentaciones, las cuales se asignaron a dos variables distintas. La primera 'k4_clusters': contiene 4 segmentos o clusters (0,1,2,3); la segunda variable 'k5_clusters': contiene 5 segmentos o clusters. 
 
-El proyecto en cual se realizó esta tarea puede ser revisado en el siguiente enlace: <img src=""/>
+El proyecto en cual se realizó esta tarea puede ser revisado en el siguiente enlace: https://github.com/PabloJRW/segmentacion_de_clientes
 
 ### Datos
 Contamos con un conjunto de datos que consta de las siguientes variables:
